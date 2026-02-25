@@ -1,16 +1,99 @@
-# calculator
+🧮 Flutter Calculator App
 
-A new Flutter project.
+A modern, fully functional Calculator App built with Flutter.
+This application supports both basic and advanced mathematical operations with a clean UI and dynamic theme switching (Light/Dark mode).
 
-## Getting Started
+🚀 Integrated with GitHub Actions for automated APK build and release.
 
-This project is a starting point for a Flutter application.
+✨ Features
+🔢 Basic Operations
 
-A few resources to get you started if this is your first Flutter project:
+➕ Addition
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+➖ Subtraction
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✖️ Multiplication
+
+➗ Division
+
+🧠 Advanced Operations
+
+√ Square Root
+
+x² Square
+
+x³ Cube
+
+± Change Sign
+
+Clear / Reset
+
+🎨 UI Features
+
+🌗 Light Mode & Dark Mode toggle
+
+📱 Responsive design
+
+🧩 Interactive button animations
+
+🧼 Clean and minimal interface
+
+⚙️ Tech Stack
+
+💙 Flutter
+
+🎯 Dart
+
+Material Design
+
+GitHub Actions (CI/CD)
+
+🔄 CI/CD Integration
+
+This project uses GitHub Actions to:
+
+Automatically build the release APK
+
+Generate artifacts
+
+Create GitHub Releases
+
+Ensure clean and consistent builds
+
+Workflow runs on:
+
+Push to main
+
+Tag-based release
+
+📈 What I Learned
+
+State management using StatefulWidgets
+
+Handling user input and expression parsing
+
+Implementing theme switching dynamically
+
+Flutter UI layout structuring
+
+Setting up CI/CD using GitHub Actions
+
+Automating APK release builds
+
+🚀 Future Improvements
+
+Scientific calculator mode
+
+Calculation history
+
+Memory functions (M+, M-, MR)
+
+iOS support
+
+Unit testing
+
+👨‍💻 Author
+
+Muhammad Arham
+Flutter Developer | Software Engineer
+Passionate about building clean and scalable applications.
